@@ -1,0 +1,26 @@
+{
+	"ImportPath": "github.com/domeos/dockerConnector",
+	"GoVersion": "go1.5.1",
+	"Deps": [
+		{
+			"ImportPath": "github.com/codegangsta/cli",
+			"Rev": "4a1d10a7bc545b2d84130c16dfb28e75f03049ea"
+		},
+		{
+			"ImportPath": "github.com/go-sql-driver/mysql",
+			"Rev": "385c8d95a3efbd27ab7e1f78965e150efc73275f"
+		},
+		{
+			"ImportPath": "github.com/kr/pty",
+			"Rev": "efdc594f29476fe9485a4ddfdda9b1a94a550b81"
+		},
+		{
+			"ImportPath": "github.com/mountkin/dockerclient",
+			"Rev": "758893b521612d44cb88f7727744233346122c98"
+		},
+		{
+			"ImportPath": "golang.org/x/crypto/ssh",
+			"Rev": "4dd8494d40fda2dc41974d05857c72cf77da09af"
+		}
+	]
+}
